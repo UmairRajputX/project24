@@ -1,2 +1,2 @@
 # project24
-this is new project
+this is demo project
